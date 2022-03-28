@@ -4,12 +4,17 @@
 ## Instalação e Primeira configuração
 
 Pra instalar, basta acessar a página de [downloads](https://git-scm.com/downloads) e seguir as instruções\
+
+### Primeiro vamos configurar a chave SSH
+
+
+
 Pra se conectar, utilize os seguinte comandos: <sub>(Substitua o nome e o e-mail para o seu)<sub/>
 ```
-git config --global user.name "Nome"
+git config --global user.name "Mamacode"
 ```
 ```
-git config --global user.email email@codejr.com
+git config --global user.email l "mamacode@codejr.com.br"
 ```
 
 ## Começar um projeto
@@ -17,11 +22,11 @@ git config --global user.email email@codejr.com
 Abra uma pasta, clique com o botão direito e selecione "Git Bash Here" para abrir o terminal do git\
 Clone o repositório
 ```
-git clone https://github.com/NelioGouvea/treinamento_git_trainee_2021.3
+git clone https://github.com/alvesmateus63/treinamento-git-2022.1/
 ```
 Entre na pasta criada pelo comando clone
 ```
-cd ./treinamento_git_trainee
+cd ./treinamento-git-2022.1
 ```
 Crie sua branch usando como o padrão o nome da funcionalidade que você vai desenvolver
 ```
