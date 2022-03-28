@@ -14,7 +14,7 @@ Pra se conectar, utilize os seguinte comandos: <sub>(Substitua o nome e o e-mail
 git config --global user.name "Mamacode"
 ```
 ```
-git config --global user.email l "mamacode@codejr.com.br"
+git config --global user.email "mamacode@codejr.com.br"
 ```
 
 ## Começar um projeto
