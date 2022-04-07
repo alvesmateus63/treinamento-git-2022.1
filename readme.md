@@ -30,7 +30,7 @@ Isto cria uma nova chave SSH, usando o nome de e-mail fornecido como uma etiquet
 > Enter same passphrase again: [Type passphrase again]
 ```
 Assim sua chave ja vai ter sido criada.
-* Agora você precisa grenciar a chave que voce criou, cole o texto abaixo para iniciar o ssh-agent
+* Agora você precisa gerenciar a chave que voce criou, cole o texto abaixo para iniciar o ssh-agent
 ```
 eval "$(ssh-agent -s)"
 ```
